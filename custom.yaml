@@ -15,5 +15,4 @@ payload:
   - DOMAIN-SUFFIX,asus.com
   - DOMAIN-SUFFIX,hcaptcha.com
   - DOMAIN-SUFFIX,amazonaws.com
-  - DOMAIN-SUFFIX,audio.itunes.apple.com
   - DOMAIN-SUFFIX,blobstore.apple.com
