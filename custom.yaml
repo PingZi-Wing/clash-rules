@@ -18,3 +18,4 @@ payload:
   - DOMAIN-SUFFIX,blobstore.apple.com
   - DOMAIN-SUFFIX,dl.sourceforge.net
   - DOMAIN-SUFFIX,waqi.info
+  - DOMAIN-SUFFIX,javlibrary.com
