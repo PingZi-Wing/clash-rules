@@ -19,3 +19,4 @@ payload:
   - DOMAIN-SUFFIX,dl.sourceforge.net
   - DOMAIN-SUFFIX,waqi.info
   - DOMAIN-SUFFIX,javlibrary.com
+  - DOMAIN,addons.mozilla.org
