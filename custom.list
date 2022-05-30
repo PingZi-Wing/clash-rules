@@ -8,12 +8,9 @@ DOMAIN-SUFFIX,sehuatang.net
 DOMAIN-SUFFIX,muniucloud.work
 DOMAIN-SUFFIX,muniucloud.net
 DOMAIN-SUFFIX,paoluz.com
-DOMAIN-SUFFIX,paoluz.link
-DOMAIN-SUFFIX,mega.co.nz  
+DOMAIN-SUFFIX,paoluz.link  
 DOMAIN-SUFFIX,asus.com
 DOMAIN-SUFFIX,hcaptcha.com
-DOMAIN-SUFFIX,amazonaws.com
-DOMAIN-SUFFIX,blobstore.apple.com
 DOMAIN-SUFFIX,dl.sourceforge.net
 DOMAIN-SUFFIX,waqi.info
 DOMAIN-SUFFIX,loli.net
@@ -26,6 +23,6 @@ DOMAIN-SUFFIX,api.tmdb.org
 DOMAIN-SUFFIX,feedly.com
 DOMAIN,addons.mozilla.org
 DOMAIN-SUFFIX,bianyuan.xyz
-DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,rewards.microsoft.com
 DOMAIN-SUFFIX,imgur.com
+DOMAIN-SUFFIX,imgurinc.com
