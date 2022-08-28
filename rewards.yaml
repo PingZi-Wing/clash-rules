@@ -1,5 +1,5 @@
 payload:
-  - 'rewards.microsoft.com'
-  - 'rewardsplatform.microsoft.com'
-  - 'gamepassquests.xboxlive.com'
-  - 'bing.com'
+  - DOMAIN-SUFFIX,rewards.microsoft.com
+  - DOMAIN-SUFFIX,rewardsplatform.microsoft.com
+  - DOMAIN-SUFFIX,gamepassquests.xboxlive.com
+  - DOMAIN-SUFFIX,bing.com
