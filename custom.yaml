@@ -33,3 +33,4 @@ payload:
   - DOMAIN-SUFFIX,ifixit.com
   - DOMAIN-SUFFIX,v2fly.org
   - DOMAIN-SUFFIX,bulianglin.com
+  - DOMAIN,1.1.1.1
