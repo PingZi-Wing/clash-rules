@@ -34,3 +34,8 @@ payload:
   - DOMAIN-SUFFIX,v2fly.org
   - DOMAIN-SUFFIX,bulianglin.com
   - DOMAIN,1.1.1.1
+  - DOMAIN-SUFFIX,rarbg.to
+  - DOMAIN-SUFFIX,rarbgprx.org
+  - DOMAIN-SUFFIX,rarbg.tw
+  - DOMAIN-SUFFIX,rarbggo.to
+  - DOMAIN-SUFFIX,rarbgtor.org  
