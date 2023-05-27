@@ -1,0 +1,14 @@
+# *.baidu.com 只匹配 tieba.baidu.com 而不匹配 123.tieba.baidu.com 或者 baidu.com
+# ＋.baidu.com 匹配 tieba.baidu.com 和 123.tieba.baidu.com 或者 baidu.com
+# .baidu.com 匹配 tieba.baidu.com 和 123.tieba.baidu.com, 但不能匹配 baidu.com
++.bulianglin.com
+sm.ms
+translate.googleapis.com
+wwww.googletagmanager.com
++.fractal-design.com
++.powercolor.com
++.adtidy.org
++.sehuatang.net
+addons.mozilla.org
++.ntp.msn.cn
++.ntp.msn.com
