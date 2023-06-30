@@ -12,3 +12,4 @@ wwww.googletagmanager.com
 addons.mozilla.org
 +.ntp.msn.cn
 +.ntp.msn.com
++.adtidy.org
