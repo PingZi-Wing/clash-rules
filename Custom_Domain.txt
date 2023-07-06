@@ -13,3 +13,7 @@ addons.mozilla.org
 +.ntp.msn.cn
 +.ntp.msn.com
 +.adtidy.org
+smartscreen.microsoft.com
+nav.smartscreen.microsoft.com
+smartscreen-prod.microsoft.com
+smartscreen-prod2.microsoft.com
