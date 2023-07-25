@@ -1,6 +1,6 @@
 # *.baidu.com 只匹配 tieba.baidu.com 而不匹配 123.tieba.baidu.com 或者 baidu.com
-# ＋.baidu.com 匹配 tieba.baidu.com 和 123.tieba.baidu.com 或者 baidu.com
 # .baidu.com 匹配 tieba.baidu.com 和 123.tieba.baidu.com, 但不能匹配 baidu.com
+# +.baidu.com 匹配 tieba.baidu.com 和 123.tieba.baidu.com 或者 baidu.com
 +.bulianglin.com
 sm.ms
 translate.googleapis.com
@@ -17,3 +17,4 @@ smartscreen.microsoft.com
 nav.smartscreen.microsoft.com
 smartscreen-prod.microsoft.com
 smartscreen-prod2.microsoft.com
++.imgur.com
