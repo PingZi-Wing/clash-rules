@@ -19,3 +19,4 @@ smartscreen-prod.microsoft.com
 smartscreen-prod2.microsoft.com
 +.imgur.com
 +.mikanani.me
+kt-prod.ess.apple.com
